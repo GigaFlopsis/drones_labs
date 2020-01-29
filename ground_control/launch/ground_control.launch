@@ -1,0 +1,7 @@
+<launch>
+ 
+<node name="interactive_goal" pkg="interactive_goal" type="interactive_posestamped_node" required="true" />
+<!--rviz-->
+	<node name="rviz" pkg="rviz" type="rviz" required="true"
+		args="-d $(find ground_control)/rviz/slam.rviz" />
+</launch>
