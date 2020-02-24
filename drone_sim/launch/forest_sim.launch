@@ -66,4 +66,8 @@
     </include>
 
 
+<!-- Obstacles publisher -->
+
+	<node pkg="drone_sim" name="obtacles_list" type="obstacles_list_node.py" respawn="true" output="screen"/>
+
 </launch>
