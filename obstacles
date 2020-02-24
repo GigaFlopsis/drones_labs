@@ -1,0 +1,85 @@
+2.0 0.0
+6.5 -1.9
+5.0 -0.5
+3.5 0.5
+2.8 2.0
+7.5 -0.8
+6.5 0.8
+5.0 1.8
+7.0 2.9
+9.2 1.3
+9.5 -0.7
+3.5 -3.0
+
+
+<include>
+      <name>collum 1</name>
+      <uri>model://collum</uri>
+      <pose>2.0 0.0 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 2</name>
+      <uri>model://collum</uri>
+      <pose>6.5 -1.9 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 3</name>
+      <uri>model://collum</uri>
+      <pose>5.0 -0.5 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 4</name>
+      <uri>model://collum</uri>
+      <pose>3.5 0.5 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 5</name>
+      <uri>model://collum</uri>
+      <pose>2.8 2.0 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 6</name>
+      <uri>model://collum</uri>
+      <pose>7.5 -0.8 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 7</name>
+      <uri>model://collum</uri>
+      <pose>6.5 0.8 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 8</name>
+      <uri>model://collum</uri>
+      <pose>5.0 1.8 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 9</name>
+      <uri>model://collum</uri>
+      <pose>7.0 2.9 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 10</name>
+      <uri>model://collum</uri>
+      <pose>9.2 1.3 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 11</name>
+      <uri>model://collum</uri>
+      <pose>9.5 -0.7 1.5  0 0 0</pose>
+    </include>
+
+<include>
+      <name>collum 12</name>
+      <uri>model://collum</uri>
+      <pose>3.5 -3.0 1.5  0 0 0</pose>
+    </include>
