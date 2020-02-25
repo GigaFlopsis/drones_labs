@@ -12,7 +12,7 @@ from visualization_msgs.msg import Marker, MarkerArray
 import copy
 
 
-scale_collum = [0.3, 3.0]
+scale_collum = [0.4, 3.0]
 
 obstacles_array = PoseArray()
 marker_array = MarkerArray()
